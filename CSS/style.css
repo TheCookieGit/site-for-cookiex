@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
+/* Google Font */
+body {
+    background-color: rgb(13,13,17);
+}
+p {
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+}
+.navbar a {padding: 10px 50px; display:inline-block;}
+.navbar ul{margin:0;}
+
+div.zagol {
+    height: 10em;
+    display: flex;
+    align-items: center
+}
+div.zagol p{
+    /* margin-left: 62px; */
+    margin: 0
+}
